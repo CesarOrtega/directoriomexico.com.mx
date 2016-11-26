@@ -26,7 +26,7 @@ define('DB_NAME', 'directoriomexico_com_mx');
 define('DB_USER', 'ortegon000');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'l3M9f6Wa');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
